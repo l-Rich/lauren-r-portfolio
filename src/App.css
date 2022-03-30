@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: 'Hind', sans-serif;
+  font-size: 500px;
+}

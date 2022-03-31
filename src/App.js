@@ -13,7 +13,7 @@ const App = () => {
           <h1><span style={{ color: 'rgb(250, 151, 168)', fontWeight: 'bold' }}>
           {/* Style will be inherited from the parent element */}
           <Typewriter
-            words={['coder.', 'seeker', 'student.', 'software engineer.']}
+            words={['coder.', 'seeker.', 'student.', 'software engineer.']}
             loop
             cursor
             cursorStyle='|'

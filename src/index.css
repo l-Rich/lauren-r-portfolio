@@ -5,7 +5,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-h1{
+/* h1{
   font-family: 'Hind', sans-serif;
   font-size: 100px;
   margin: 1px
@@ -16,7 +16,7 @@ h2{
   color: pink;
   margin: 1px
   
-}
+} */
 
 code {
   font-family: 'Quicksand', sans-serif;

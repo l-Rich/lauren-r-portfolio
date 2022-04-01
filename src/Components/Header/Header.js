@@ -12,8 +12,8 @@ const Header = () => {
                 <div className='navlink'>
                     <ul className='link f_flex uppercase'>
                         <li> <a href="#home">home</a></li>
+                        <li> <a href="#aboutme">About Me</a></li>
                         <li> <a href="#portfolio">portfolio</a></li>
-                        <li> <a href="#github">github</a></li>
                         <li> <a href="#resume">resume</a></li>
                         <li> <a href="#blog">blog</a></li>
                         <li> <a href="#contact">contact</a></li>

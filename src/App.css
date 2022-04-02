@@ -7,16 +7,13 @@
 html{
   scroll-behavior: smooth;
 }
-body{
-  font-family: 'Raleway', sans-serif;
-  background-color: rgb(231, 225, 221)
-}
 .front {
   width: 75%;
   margin: auto;
   padding: 100px;
+  height: 790px;
 }
-.container {
+/* .container {
   max-width: 95%;
   margin: auto;
 }
@@ -39,29 +36,4 @@ li {
 }
 .capitalize {
   text-transform: capitalize;
-}
-.lauren{
-  height: 500px;
-  align-self: center;
-  position: absolute;
-  right: 300px;
-  top: 400px;
-  
-}
-h1{
-  font-family: 'Hind', sans-serif;
-  font-size: 75px;
-  margin: 10px;
-  padding-left: 10%;
-  color: rgb(250, 151, 168);
-  text-shadow: 2px 2px 4px #9c9c9c;
-}
-h2{
-  font-family: 'Hind', sans-serif;
-  font-size: 55px;
-  margin: 10px;
-  padding-left: 10%;
-}
-.words {
-  text-shadow: 2px 2px 4px #9c9c9c;
-}
+} */

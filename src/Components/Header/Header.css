@@ -1,6 +1,7 @@
 header {
     height: 10vh;
     line-height: 10vh;
+    background-color: #235451
 }
 header .container{
     padding-top: 15px;
@@ -13,7 +14,32 @@ header ul li a {
     font-size: 13px;
     font-weight: 500;
     letter-spacing: 1px;
+    color: whitesmoke;
 }
 header ul li a:hover {
-    color: pink;
+    color: rgb(250, 151, 168)
 } 
+.container {
+    max-width: 95%;
+    margin: auto;
+  }
+  .d_flex{
+    display: flex;
+    justify-content: space-between;
+  }
+  .f_flex{
+    display: flex;
+  }
+  a { 
+    text-decoration: none;
+    color: black;
+  }
+  li {
+    list-style: none;
+  }
+  .uppercase {
+    text-transform: uppercase;
+  }
+  .capitalize {
+    text-transform: capitalize;
+  }

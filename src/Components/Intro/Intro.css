@@ -1,4 +1,4 @@
-section {    
+/* section {    
     position: relative; 
     height: 75.7vh;
     width: 100%;
@@ -14,17 +14,17 @@ section::before {
       bottom: 0px;
       left: 0px;
       opacity: .20;
-}
+} */
 
 h1{
     font-family: 'Hind', sans-serif;
     font-size: 75px;
     margin: 5px;
     padding-left: 10%;
-    color: rgb(250, 151, 168);
-    text-shadow: 2px 2px 12px#6e6e6e;
+    color: rgb(255, 153, 170);
+    text-shadow: 2px 2px 5px#fca1a1a6;
     position: relative;
-    top: 400px
+    top: 250px;
   }
   h2{
     font-family: 'Hind', sans-serif;
@@ -32,16 +32,16 @@ h1{
     margin: 5px;
     padding-left: 10%;
     position: relative;
-    top: 400px;
-    text-shadow: 1px 1px 10px rgb(199, 198, 198)
+    top: 250px;
   }
   .words {
-    text-shadow: 2px 2px 4px #9c9c9c;
+  
+    color: rgb(0, 0, 0);
+    
   }
   .lauren{
-    height: 600px;
-    align-self: center;
-    position: relative;    
-    left: 800px;
-    top: -80px;
+    position: relative;
+    height: 500px;
+    margin-left: 900px;
+    filter: drop-shadow(0 0 2rem rgb(0, 0, 0));
   } 

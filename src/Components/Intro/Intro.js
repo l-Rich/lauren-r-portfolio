@@ -8,9 +8,9 @@ const Intro = () => {
         <section>
             <h2>Hello! My name is</h2>
             <h1>Lauren L. Richardson. </h1>
-            <h2>I am a <span className="words" style={{ color: 'rgb(250, 151, 168)', fontWeight: 'bold' }}>
+            <h2>I am a <span className="words" style={{ color: 'rgb(0, 0, 0)', fontWeight: 'bold' }}>
             <Typewriter
-            words={['coder.', 'seeker.', 'student.', 'software engineer.']}
+            words={['coder.', 'adventure seeker.', 'student.', 'software engineer.']}
             loop
             cursor
             cursorStyle='|'

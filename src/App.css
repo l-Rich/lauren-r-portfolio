@@ -13,6 +13,9 @@ html{
   padding: 100px;
   height: 790px;
 }
+.aboutme_resume{
+  display: flex
+}
 /* .container {
   max-width: 95%;
   margin: auto;

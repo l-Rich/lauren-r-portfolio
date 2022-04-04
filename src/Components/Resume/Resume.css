@@ -1,14 +1,14 @@
-.aboutme {
+.resume {
     height: 600px;
     width: 50%;
     background-color: #235451
 }
-.aboutme:hover {
+.resume:hover {
     height: 600px;
     background-color: #f5f4f4;
     color:black
 }
-.aboutme_header{
+.resume_header{
     color: white;
     font-size: 50px;
 }

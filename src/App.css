@@ -7,19 +7,19 @@
 html{
   scroll-behavior: smooth;
 }
-.intro {    
+#home {    
   position: relative; 
   width: 100%;
   background-color: #ffffff;
 }
-.aboutme{
+/* #aboutMe{
   margin-top: 10%;
   border-radius: 20px;
   margin-left: auto;
   margin-right: auto;
   box-shadow: 0px 0px 15px black;
   background-color: rgb(125, 199, 183);
-}
+} */
 /* .container {
   max-width: 95%;
   margin: auto;

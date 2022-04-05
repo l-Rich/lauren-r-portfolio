@@ -11,10 +11,10 @@ import Resume from './Components/Resume/Resume'
 const App = () => {
   return (
     <div>
-      <Header/>
-      <div className='intro'><Intro/></div>
-      <div className='aboutMe'><Aboutme/></div>
-      <Resume/>
+      <div id="header"><Header/></div>
+      <div id='home'><Intro/></div>
+      <div id='aboutMe'><Aboutme/></div>
+      <div id='resume'><Resume/></div>
       <Portfolio/>
     </div>
   )

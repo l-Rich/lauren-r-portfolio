@@ -12,8 +12,9 @@ const App = () => {
   return (
     <div>
       <Header/>
-      <Intro/>
-      <div className='aboutme_resume'><Aboutme/><Resume/></div>
+      <div className='intro'><Intro/></div>
+      <div className='aboutMe'><Aboutme/></div>
+      <Resume/>
       <Portfolio/>
     </div>
   )

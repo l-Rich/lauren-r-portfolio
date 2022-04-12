@@ -15,7 +15,7 @@ const Header = () => {
                         <li> <a href="#aboutMe">About Me</a></li>
                         <li> <a href="#resume">Resume</a></li>
                         <li> <a href="#portfolio">Portfolio</a></li>
-                        <li> <a href="www.github.com/l-rich">Github</a></li>
+                        <li> <a href="http://www.github.com/l-rich">Github</a></li>
                         <li> <a href="#contact">Contact Me</a></li>
                     </ul>
                 </div>

@@ -6,6 +6,7 @@ import Portfolio from './Components/Portfolio/Portfolio'
 import Intro from './Components/Intro/Intro'
 import Aboutme from './Components/Aboutme/Aboutme'
 import Resume from './Components/Resume/Resume'
+import Skills from './Components/Skills/Skills'
 
 
 const App = () => {
@@ -15,7 +16,9 @@ const App = () => {
       <div id='home'><Intro/></div>
       <div id='aboutMe'><Aboutme/></div>
       <div id='resume'><Resume/></div>
-      <Portfolio/>
+      <div id='skills'><Skills/></div>
+      <div id='portfolio'><Portfolio/></div>
+      
     </div>
   )
 }

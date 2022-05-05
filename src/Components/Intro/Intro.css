@@ -1,15 +1,18 @@
-.intro_name{
-    font-family: 'Hind', sans-serif;
+.intro{
+  display: flex;
+  flex-direction:column;
+}.intro_name{
+    font-family: 'Raleway', sans-serif;
     font-size: 75px;
     margin: 5px;
     padding-left: 10%;
     color: rgb(255, 153, 170);
-    text-shadow: 2px 2px 5px#fca1a1a6;
+    text-shadow: 2px 2px 5px #fca1a1a6;
     position: relative;
     top: 250px;
   }
   h2{
-    font-family: 'Hind', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 55px;
     margin: 5px;
     padding-left: 10%;
@@ -21,7 +24,8 @@
   }
   .lauren{
     position: relative;
-    height: 510px;
+    height: auto;
+    max-height: 700px;
     margin-left: 60%;
     filter: drop-shadow(0 0 2rem rgb(0, 0, 0));
-  } 
+  }
